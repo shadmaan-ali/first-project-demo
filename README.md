@@ -5,4 +5,4 @@ author Shadmaan Ali
 <br>
 nick name Sajid
 <br>
-And I amm A Student 
+And I am A Student 
